@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bitwise-operators-plus-number-systems/bitwise-operators-plus-number-systems.iml" filepath="$PROJECT_DIR$/bitwise-operators-plus-number-systems/bitwise-operators-plus-number-systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction-to-recursion/introduction-to-recursion.iml" filepath="$PROJECT_DIR$/introduction-to-recursion/introduction-to-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kunal.iml" filepath="$PROJECT_DIR$/kunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maths-for-data-structures-and-algorithms/maths-for-data-structures-and-algorithms.iml" filepath="$PROJECT_DIR$/maths-for-data-structures-and-algorithms/maths-for-data-structures-and-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings-and-stringbuilder/strings-and-stringbuilder.iml" filepath="$PROJECT_DIR$/strings-and-stringbuilder/strings-and-stringbuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time-and-space-complexity/time-and-space-complexity.iml" filepath="$PROJECT_DIR$/time-and-space-complexity/time-and-space-complexity.iml" />
+    </modules>
+  </component>
+</project>
